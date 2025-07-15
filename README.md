@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # SimpleChatApp
-=======
+
 # Real-Time Chat App
 
 A modern, fully responsive real-time chat application built with Node.js, Express, Socket.io, and React (Vite). Features include live messaging, notifications, online status, private messaging, multiple chat rooms, file/image sharing, read receipts, message reactions, and more.
@@ -38,8 +37,3 @@ The client runs on [http://localhost:5173](http://localhost:5173) and the server
 
 - **Frontend:** React, Vite, Socket.io-client
 - **Backend:** Node.js, Express, Socket.io
-
-## License
-
-MIT
->>>>>>> bd465d6 (added app-files)
